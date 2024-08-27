@@ -12,7 +12,7 @@ Output required: मझे सिर्फ ३० **minute** का **demo** म
 There is another kind of cross coding -
 Statement: I had about a 30 minute demo just using this new headset<br>
 Output: Mujhe sirf 30 minut ka demo mila tha us naye headset ka istemal karne ke liye<be>
-(The script is written in eenglish alphabets while keeping the pronunciation same)
+(The script is written in english alphabets while keeping the pronunciation same)
 
 ## Explorer
 `requirements.txt` python dependencies<br>
